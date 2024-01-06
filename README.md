@@ -1,5 +1,7 @@
 # RonChat
   ReactJS and firebse realtime chatting application with authorization and authentication
+  
+  
   To run-
   -npm install
   -npm run dev (vite script)
